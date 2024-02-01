@@ -8,7 +8,7 @@ function HomePage() {
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
       }}
-      className={"text-8xl font-Bellefair w-screen h-screen"}
+      className={"text-8xl font-Bellefair w-screen h-screen pt-20"}
     >
       <p>So you want to space travel?</p>
     </div>
